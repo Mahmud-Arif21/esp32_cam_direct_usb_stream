@@ -2,7 +2,7 @@
 
 ## Quickly verify ESP32-CAM functionality without Wi-Fi or network setup
 
-This utility tool helps developers rapidly determine if an ESP32-CAM module is functioning correctly by establishing a direct USB connection to your computer. **Eliminate hours of debugging network issues** when the root cause might be a simple hardware problem!
+This project helps developers rapidly determine if an ESP32-CAM module is functioning correctly by establishing a direct USB connection to your computer. **Eliminate hours of debugging network issues** when the root cause might be a simple hardware problem!
 
 > "Is my camera broken, or is it my code?" - Now you'll know in under 2 minutes.
 
